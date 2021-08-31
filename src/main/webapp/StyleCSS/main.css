@@ -1,0 +1,79 @@
+body {
+
+    font-family: Comic Sans MS, Impact, fantasy, 'Times New Roman', Times, serif;
+    font-weight: 500;
+
+    color: rgb(161, 240, 15);
+    text-align: right;
+
+    background-color: black;
+    background-image: url("/img/workout.jpeg");
+    background-size: cover;
+}
+
+.nav {
+    background-color: black;
+    background-image: url("/img/1.jpg");
+    background-position: top center;
+    background-size: cover;
+    opacity: 0.8;
+    padding: 40px;
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 5px;
+    letter-spacing: 1px;
+    margin: 0 10px;
+    font-size: 24px;
+    font-family: 'Fredoka One', cursive;
+    transition: .3s ease-in-out;
+}
+
+.s2 {
+    color: white;
+    text-shadow: 1px 1px black;
+    letter-spacing: 1px;
+    border-bottom: 2px solid transparent;
+}
+
+.s2:hover {
+    color: rgb(161, 240, 15);
+    border-bottom: 2px solid rgb(161, 240, 15);
+    box-shadow: 0 1px 0 white, 0 2px 0 #969696;
+}
+
+.sect {
+    opacity: 0.8;
+    padding-bottom: 105px;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    text-align: center;
+    text-shadow: 5px 4px 3px black;
+}
+
+.text {
+    word-spacing: 10px;
+    font-size: 18px;
+    text-shadow: 5px 4px 3px black;
+    border-top: 1px solid white;
+}
+
+.info {
+    text-align: right;
+    word-spacing: 10px;
+    font-size: 18px;
+    text-shadow: 5px 4px 3px black;
+}

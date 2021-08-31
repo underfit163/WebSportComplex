@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-04-15T18:54:22.117696300Z</date>
+  <millis>1618512862117</millis>
+  <nanos>696300</nanos>
+  <sequence>0</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Server version name:   Apache Tomcat/8.5.63</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.139637600Z</date>
+  <millis>1618512862139</millis>
+  <nanos>637600</nanos>
+  <sequence>1</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Server built:          Jan 29 2021 11:21:49 UTC</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.140635300Z</date>
+  <millis>1618512862140</millis>
+  <nanos>635300</nanos>
+  <sequence>2</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Server version number: 8.5.63.0</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.141632600Z</date>
+  <millis>1618512862141</millis>
+  <nanos>632600</nanos>
+  <sequence>3</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>OS Name:               Windows 10</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.142629800Z</date>
+  <millis>1618512862142</millis>
+  <nanos>629800</nanos>
+  <sequence>4</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Версия ОС:             10.0</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.143627400Z</date>
+  <millis>1618512862143</millis>
+  <nanos>627400</nanos>
+  <sequence>5</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Архитектура:           amd64</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.143627400Z</date>
+  <millis>1618512862143</millis>
+  <nanos>627400</nanos>
+  <sequence>6</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Java Home:             C:\Program Files\Java\jdk-15.0.2</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.144624300Z</date>
+  <millis>1618512862144</millis>
+  <nanos>624300</nanos>
+  <sequence>7</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Версия JVM:            15.0.2+7-27</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.144624300Z</date>
+  <millis>1618512862144</millis>
+  <nanos>624300</nanos>
+  <sequence>8</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>JVM Vendor:            Oracle Corporation</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.145621600Z</date>
+  <millis>1618512862145</millis>
+  <nanos>621600</nanos>
+  <sequence>9</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>CATALINA_BASE:         C:\Users\163ty\AppData\Local\JetBrains\IntelliJIdea2021.1\tomcat\076d4169-6e28-4043-91b8-3c5609bb7b3b</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.145621600Z</date>
+  <millis>1618512862145</millis>
+  <nanos>621600</nanos>
+  <sequence>10</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 8.5</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.149611300Z</date>
+  <millis>1618512862149</millis>
+  <nanos>611300</nanos>
+  <sequence>11</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.150609300Z</date>
+  <millis>1618512862150</millis>
+  <nanos>609300</nanos>
+  <sequence>12</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.151606300Z</date>
+  <millis>1618512862151</millis>
+  <nanos>606300</nanos>
+  <sequence>13</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.152603300Z</date>
+  <millis>1618512862152</millis>
+  <nanos>603300</nanos>
+  <sequence>14</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.153601Z</date>
+  <millis>1618512862153</millis>
+  <nanos>601000</nanos>
+  <sequence>15</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.153601Z</date>
+  <millis>1618512862153</millis>
+  <nanos>601000</nanos>
+  <sequence>16</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Djava.util.logging.config.file=C:\Users\163ty\AppData\Local\JetBrains\IntelliJIdea2021.1\tomcat\076d4169-6e28-4043-91b8-3c5609bb7b3b\conf\logging.properties</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.154598100Z</date>
+  <millis>1618512862154</millis>
+  <nanos>598100</nanos>
+  <sequence>17</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.156592400Z</date>
+  <millis>1618512862156</millis>
+  <nanos>592400</nanos>
+  <sequence>18</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Djava.util.logging.config.file=C:/Users/163ty/Desktop/KursProdjWEB/WebSC/src/main/resources/log.properties</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.157590200Z</date>
+  <millis>1618512862157</millis>
+  <nanos>590200</nanos>
+  <sequence>19</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Dcom.sun.management.jmxremote=</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.157590200Z</date>
+  <millis>1618512862157</millis>
+  <nanos>590200</nanos>
+  <sequence>20</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Dcom.sun.management.jmxremote.port=1099</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.158588Z</date>
+  <millis>1618512862158</millis>
+  <nanos>588000</nanos>
+  <sequence>21</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Dcom.sun.management.jmxremote.ssl=false</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.158588Z</date>
+  <millis>1618512862158</millis>
+  <nanos>588000</nanos>
+  <sequence>22</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Dcom.sun.management.jmxremote.password.file=C:\Users\163ty\AppData\Local\JetBrains\IntelliJIdea2021.1\tomcat\076d4169-6e28-4043-91b8-3c5609bb7b3b\jmxremote.password</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.159584300Z</date>
+  <millis>1618512862159</millis>
+  <nanos>584300</nanos>
+  <sequence>23</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Dcom.sun.management.jmxremote.access.file=C:\Users\163ty\AppData\Local\JetBrains\IntelliJIdea2021.1\tomcat\076d4169-6e28-4043-91b8-3c5609bb7b3b\jmxremote.access</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.160581900Z</date>
+  <millis>1618512862160</millis>
+  <nanos>581900</nanos>
+  <sequence>24</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Djava.rmi.server.hostname=127.0.0.1</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.160581900Z</date>
+  <millis>1618512862160</millis>
+  <nanos>581900</nanos>
+  <sequence>25</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Djdk.tls.ephemeralDHKeySize=2048</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.161580800Z</date>
+  <millis>1618512862161</millis>
+  <nanos>580800</nanos>
+  <sequence>26</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.161580800Z</date>
+  <millis>1618512862161</millis>
+  <nanos>580800</nanos>
+  <sequence>27</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Dignore.endorsed.dirs=</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.162577300Z</date>
+  <millis>1618512862162</millis>
+  <nanos>577300</nanos>
+  <sequence>28</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Dcatalina.base=C:\Users\163ty\AppData\Local\JetBrains\IntelliJIdea2021.1\tomcat\076d4169-6e28-4043-91b8-3c5609bb7b3b</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.162577300Z</date>
+  <millis>1618512862162</millis>
+  <nanos>577300</nanos>
+  <sequence>29</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 8.5</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.163573600Z</date>
+  <millis>1618512862163</millis>
+  <nanos>573600</nanos>
+  <sequence>30</sequence>
+  <logger>org.apache.catalina.startup.VersionLoggerListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.VersionLoggerListener</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 8.5\temp</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.163573600Z</date>
+  <millis>1618512862163</millis>
+  <nanos>573600</nanos>
+  <sequence>31</sequence>
+  <logger>org.apache.catalina.core.AprLifecycleListener</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.AprLifecycleListener</class>
+  <method>lifecycleEvent</method>
+  <thread>1</thread>
+  <message>The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-15.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Windows\system32;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;D:\SQLite\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\dotnet\;D:\nodejs\;"C:\WINDOWS\system32;C:\Users\163ty\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\bin;";C:\Users\163ty\.dotnet\tools;D:\IntelliJ IDEA 211.6222.4\bin;D:\Microsoft VS Code\bin;C:\Users\163ty\AppData\Roaming\npm;.]</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.222819Z</date>
+  <millis>1618512862222</millis>
+  <nanos>819000</nanos>
+  <sequence>32</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Initializing ProtocolHandler ["http-nio-8080"]</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.251764900Z</date>
+  <millis>1618512862251</millis>
+  <nanos>764900</nanos>
+  <sequence>33</sequence>
+  <logger>org.apache.tomcat.util.net.NioSelectorPool</logger>
+  <level>INFO</level>
+  <class>org.apache.tomcat.util.net.NioSelectorPool</class>
+  <method>getSharedSelector</method>
+  <thread>1</thread>
+  <message>Using a shared selector for servlet write/read</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.265704200Z</date>
+  <millis>1618512862265</millis>
+  <nanos>704200</nanos>
+  <sequence>34</sequence>
+  <logger>org.apache.catalina.startup.Catalina</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.Catalina</class>
+  <method>load</method>
+  <thread>1</thread>
+  <message>Initialization processed in 686 ms</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.322551900Z</date>
+  <millis>1618512862322</millis>
+  <nanos>551900</nanos>
+  <sequence>35</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>1</thread>
+  <message>Starting service [Catalina]</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.323549100Z</date>
+  <millis>1618512862323</millis>
+  <nanos>549100</nanos>
+  <sequence>36</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>1</thread>
+  <message>Starting Servlet Engine: Apache Tomcat/8.5.63</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.340503800Z</date>
+  <millis>1618512862340</millis>
+  <nanos>503800</nanos>
+  <sequence>37</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message>Starting ProtocolHandler ["http-nio-8080"]</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:22.353470Z</date>
+  <millis>1618512862353</millis>
+  <nanos>470000</nanos>
+  <sequence>38</sequence>
+  <logger>org.apache.catalina.startup.Catalina</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.Catalina</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message>Server startup in 84 ms</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:23.176715500Z</date>
+  <millis>1618512863176</millis>
+  <nanos>715500</nanos>
+  <sequence>39</sequence>
+  <logger>org.apache.tomcat.util.descriptor.web.WebXml</logger>
+  <level>WARNING</level>
+  <class>org.apache.tomcat.util.descriptor.web.WebXml</class>
+  <method>setVersion</method>
+  <thread>20</thread>
+  <message>Unknown version string [4.0]. Default version will be used.</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:24.396897700Z</date>
+  <millis>1618512864396</millis>
+  <nanos>897700</nanos>
+  <sequence>40</sequence>
+  <logger>org.apache.jasper.servlet.TldScanner</logger>
+  <level>INFO</level>
+  <class>org.apache.jasper.servlet.TldScanner</class>
+  <method>scanJars</method>
+  <thread>20</thread>
+  <message>At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:30.986663200Z</date>
+  <millis>1618512870986</millis>
+  <nanos>663200</nanos>
+  <sequence>41</sequence>
+  <logger>org.hibernate.Version</logger>
+  <level>INFO</level>
+  <class>org.hibernate.Version</class>
+  <method>logVersion</method>
+  <thread>34</thread>
+  <message>HHH000412: Hibernate ORM core version 5.4.27.Final</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:31.971208Z</date>
+  <millis>1618512871971</millis>
+  <nanos>208000</nanos>
+  <sequence>42</sequence>
+  <logger>org.hibernate.annotations.common.Version</logger>
+  <level>INFO</level>
+  <class>org.hibernate.annotations.common.reflection.java.JavaReflectionManager</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>34</thread>
+  <message>HCANN000001: Hibernate Commons Annotations {5.1.2.Final}</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:32.254111800Z</date>
+  <millis>1618512872254</millis>
+  <nanos>111800</nanos>
+  <sequence>43</sequence>
+  <logger>org.hibernate.orm.connections.pooling</logger>
+  <level>WARN</level>
+  <class>org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl</class>
+  <method>configure</method>
+  <thread>34</thread>
+  <message>HHH10001002: Using Hibernate built-in connection pool (not for production use!)</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:32.261113500Z</date>
+  <millis>1618512872261</millis>
+  <nanos>113500</nanos>
+  <sequence>44</sequence>
+  <logger>org.hibernate.orm.connections.pooling</logger>
+  <level>INFO</level>
+  <class>org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl</class>
+  <method>buildCreator</method>
+  <thread>34</thread>
+  <message>HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/SportsComplex]</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:32.261113500Z</date>
+  <millis>1618512872261</millis>
+  <nanos>113500</nanos>
+  <sequence>45</sequence>
+  <logger>org.hibernate.orm.connections.pooling</logger>
+  <level>INFO</level>
+  <class>org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl</class>
+  <method>buildCreator</method>
+  <thread>34</thread>
+  <message>HHH10001001: Connection properties: {password=****, user=postgres}</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:32.262405200Z</date>
+  <millis>1618512872262</millis>
+  <nanos>405200</nanos>
+  <sequence>46</sequence>
+  <logger>org.hibernate.orm.connections.pooling</logger>
+  <level>INFO</level>
+  <class>org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl</class>
+  <method>buildCreator</method>
+  <thread>34</thread>
+  <message>HHH10001003: Autocommit mode: false</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:32.268392600Z</date>
+  <millis>1618512872268</millis>
+  <nanos>392600</nanos>
+  <sequence>47</sequence>
+  <logger>org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl</logger>
+  <level>INFO</level>
+  <class>org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections</class>
+  <method>&lt;init&gt;</method>
+  <thread>34</thread>
+  <message>HHH000115: Hibernate connection pool size: 20 (min=1)</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:32.351339900Z</date>
+  <millis>1618512872351</millis>
+  <nanos>339900</nanos>
+  <sequence>48</sequence>
+  <logger>org.apache.catalina.startup.HostConfig</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.HostConfig</class>
+  <method>deployDirectory</method>
+  <thread>44</thread>
+  <message>Установка веб приложения в папку [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager]</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:32.407190Z</date>
+  <millis>1618512872407</millis>
+  <nanos>190000</nanos>
+  <sequence>49</sequence>
+  <logger>org.apache.catalina.startup.HostConfig</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.startup.HostConfig</class>
+  <method>deployDirectory</method>
+  <thread>44</thread>
+  <message>Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\manager] has finished in [56] ms</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:34.011296600Z</date>
+  <millis>1618512874011</millis>
+  <nanos>296600</nanos>
+  <sequence>50</sequence>
+  <logger>org.hibernate.dialect.Dialect</logger>
+  <level>INFO</level>
+  <class>org.hibernate.dialect.Dialect</class>
+  <method>&lt;init&gt;</method>
+  <thread>34</thread>
+  <message>HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:37.256030900Z</date>
+  <millis>1618512877256</millis>
+  <nanos>30900</nanos>
+  <sequence>51</sequence>
+  <logger>org.hibernate.validator.internal.util.Version</logger>
+  <level>INFO</level>
+  <class>org.hibernate.validator.internal.util.Version</class>
+  <method>&lt;clinit&gt;</method>
+  <thread>34</thread>
+  <message>HV000001: Hibernate Validator 6.2.0.Final</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:39.201472200Z</date>
+  <millis>1618512879201</millis>
+  <nanos>472200</nanos>
+  <sequence>52</sequence>
+  <logger>org.hibernate.orm.connections.access</logger>
+  <level>INFO</level>
+  <class>org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl</class>
+  <method>getIsolatedConnection</method>
+  <thread>34</thread>
+  <message>HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@23a581a7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:40.590153300Z</date>
+  <millis>1618512880590</millis>
+  <nanos>153300</nanos>
+  <sequence>53</sequence>
+  <logger>org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator</logger>
+  <level>INFO</level>
+  <class>org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator</class>
+  <method>initiateService</method>
+  <thread>34</thread>
+  <message>HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:41.182772100Z</date>
+  <millis>1618512881182</millis>
+  <nanos>772100</nanos>
+  <sequence>54</sequence>
+  <logger>dao.TrainingDao</logger>
+  <level>INFO</level>
+  <class>dao.TrainingDao</class>
+  <method>selectTraining</method>
+  <thread>34</thread>
+  <message>select Training</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:41.283334100Z</date>
+  <millis>1618512881283</millis>
+  <nanos>334100</nanos>
+  <sequence>55</sequence>
+  <logger>dao.DisciplineDao</logger>
+  <level>INFO</level>
+  <class>dao.DisciplineDao</class>
+  <method>selectDiscipline</method>
+  <thread>34</thread>
+  <message>select Discipline</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:41.366683600Z</date>
+  <millis>1618512881366</millis>
+  <nanos>683600</nanos>
+  <sequence>56</sequence>
+  <logger>dao.EmployeeDao</logger>
+  <level>INFO</level>
+  <class>dao.EmployeeDao</class>
+  <method>selectEmployees</method>
+  <thread>34</thread>
+  <message>select Employees</message>
+</record>
+<record>
+  <date>2021-04-15T18:54:41.418674300Z</date>
+  <millis>1618512881418</millis>
+  <nanos>674300</nanos>
+  <sequence>57</sequence>
+  <logger>dao.ClientDao</logger>
+  <level>INFO</level>
+  <class>dao.ClientDao</class>
+  <method>selectClients</method>
+  <thread>34</thread>
+  <message>select Clients</message>
+</record>
+<record>
+  <date>2021-04-15T18:55:15.830964800Z</date>
+  <millis>1618512915830</millis>
+  <nanos>964800</nanos>
+  <sequence>58</sequence>
+  <logger>dao.SportcomplexDao</logger>
+  <level>INFO</level>
+  <class>dao.SportcomplexDao</class>
+  <method>selectSportcomplex</method>
+  <thread>29</thread>
+  <message>select Sportcomplex</message>
+</record>
+<record>
+  <date>2021-04-15T18:55:15.834945300Z</date>
+  <millis>1618512915834</millis>
+  <nanos>945300</nanos>
+  <sequence>59</sequence>
+  <logger>dao.EmployeeDao</logger>
+  <level>INFO</level>
+  <class>dao.EmployeeDao</class>
+  <method>selectEmployees</method>
+  <thread>29</thread>
+  <message>select Employees</message>
+</record>
+<record>
+  <date>2021-04-15T18:55:34.501465800Z</date>
+  <millis>1618512934501</millis>
+  <nanos>465800</nanos>
+  <sequence>60</sequence>
+  <logger>dao.TrainingDao</logger>
+  <level>INFO</level>
+  <class>dao.TrainingDao</class>
+  <method>selectTraining</method>
+  <thread>32</thread>
+  <message>select Training</message>
+</record>
+<record>
+  <date>2021-04-15T18:55:34.503497Z</date>
+  <millis>1618512934503</millis>
+  <nanos>497000</nanos>
+  <sequence>61</sequence>
+  <logger>dao.DisciplineDao</logger>
+  <level>INFO</level>
+  <class>dao.DisciplineDao</class>
+  <method>selectDiscipline</method>
+  <thread>32</thread>
+  <message>select Discipline</message>
+</record>
+<record>
+  <date>2021-04-15T18:55:34.508445700Z</date>
+  <millis>1618512934508</millis>
+  <nanos>445700</nanos>
+  <sequence>62</sequence>
+  <logger>dao.EmployeeDao</logger>
+  <level>INFO</level>
+  <class>dao.EmployeeDao</class>
+  <method>selectEmployees</method>
+  <thread>32</thread>
+  <message>select Employees</message>
+</record>
+<record>
+  <date>2021-04-15T18:55:34.511437700Z</date>
+  <millis>1618512934511</millis>
+  <nanos>437700</nanos>
+  <sequence>63</sequence>
+  <logger>dao.ClientDao</logger>
+  <level>INFO</level>
+  <class>dao.ClientDao</class>
+  <method>selectClients</method>
+  <thread>32</thread>
+  <message>select Clients</message>
+</record>
+<record>
+  <date>2021-04-15T18:55:44.857286500Z</date>
+  <millis>1618512944857</millis>
+  <nanos>286500</nanos>
+  <sequence>64</sequence>
+  <logger>dao.TrainingDao</logger>
+  <level>INFO</level>
+  <class>dao.TrainingDao</class>
+  <method>selectTraining</method>
+  <thread>34</thread>
+  <message>select Training</message>
+</record>
+<record>
+  <date>2021-04-15T18:55:44.860275100Z</date>
+  <millis>1618512944860</millis>
+  <nanos>275100</nanos>
+  <sequence>65</sequence>
+  <logger>dao.DisciplineDao</logger>
+  <level>INFO</level>
+  <class>dao.DisciplineDao</class>
+  <method>selectDiscipline</method>
+  <thread>34</thread>
+  <message>select Discipline</message>
+</record>
+<record>
+  <date>2021-04-15T18:55:44.864278700Z</date>
+  <millis>1618512944864</millis>
+  <nanos>278700</nanos>
+  <sequence>66</sequence>
+  <logger>dao.EmployeeDao</logger>
+  <level>INFO</level>
+  <class>dao.EmployeeDao</class>
+  <method>selectEmployees</method>
+  <thread>34</thread>
+  <message>select Employees</message>
+</record>
+<record>
+  <date>2021-04-15T18:55:44.866258900Z</date>
+  <millis>1618512944866</millis>
+  <nanos>258900</nanos>
+  <sequence>67</sequence>
+  <logger>dao.ClientDao</logger>
+  <level>INFO</level>
+  <class>dao.ClientDao</class>
+  <method>selectClients</method>
+  <thread>34</thread>
+  <message>select Clients</message>
+</record>
+<record>
+  <date>2021-04-15T18:59:08.142069900Z</date>
+  <millis>1618513148142</millis>
+  <nanos>69900</nanos>
+  <sequence>68</sequence>
+  <logger>dao.DisciplineDao</logger>
+  <level>INFO</level>
+  <class>dao.DisciplineDao</class>
+  <method>selectDiscipline</method>
+  <thread>28</thread>
+  <message>select Discipline</message>
+</record>
+<record>
+  <date>2021-04-15T18:59:17.848558600Z</date>
+  <millis>1618513157848</millis>
+  <nanos>558600</nanos>
+  <sequence>69</sequence>
+  <logger>dao.DisciplineDao</logger>
+  <level>INFO</level>
+  <class>dao.DisciplineDao</class>
+  <method>selectDiscipline</method>
+  <thread>30</thread>
+  <message>select Discipline</message>
+</record>
+<record>
+  <date>2021-04-15T19:11:11.175606900Z</date>
+  <millis>1618513871175</millis>
+  <nanos>606900</nanos>
+  <sequence>70</sequence>
+  <logger>org.apache.catalina.core.StandardServer</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardServer</class>
+  <method>await</method>
+  <thread>1</thread>
+  <message>A valid shutdown command was received via the shutdown port. Stopping the Server instance.</message>
+</record>
+<record>
+  <date>2021-04-15T19:11:11.176605200Z</date>
+  <millis>1618513871176</millis>
+  <nanos>605200</nanos>
+  <sequence>71</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>pause</method>
+  <thread>1</thread>
+  <message>Pausing ProtocolHandler ["http-nio-8080"]</message>
+</record>
+<record>
+  <date>2021-04-15T19:11:11.199565600Z</date>
+  <millis>1618513871199</millis>
+  <nanos>565600</nanos>
+  <sequence>72</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>stopInternal</method>
+  <thread>1</thread>
+  <message>Stopping service [Catalina]</message>
+</record>
+<record>
+  <date>2021-04-15T19:11:11.216523800Z</date>
+  <millis>1618513871216</millis>
+  <nanos>523800</nanos>
+  <sequence>73</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesJdbc</method>
+  <thread>48</thread>
+  <message>The web application [ROOT] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.</message>
+</record>
+<record>
+  <date>2021-04-15T19:11:11.219516700Z</date>
+  <millis>1618513871219</millis>
+  <nanos>516700</nanos>
+  <sequence>74</sequence>
+  <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
+  <level>WARNING</level>
+  <class>org.apache.catalina.loader.WebappClassLoaderBase</class>
+  <method>clearReferencesThreads</method>
+  <thread>48</thread>
+  <message>The web application [ROOT] appears to have started a thread named [Hibernate Connection Pool Validation Thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@15.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@15.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@15.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1661)
+ java.base@15.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@15.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@15.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1056)
+ java.base@15.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+ java.base@15.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+ java.base@15.0.2/java.lang.Thread.run(Thread.java:832)</message>
+</record>
+<record>
+  <date>2021-04-15T19:11:11.229488800Z</date>
+  <millis>1618513871229</millis>
+  <nanos>488800</nanos>
+  <sequence>75</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>stop</method>
+  <thread>1</thread>
+  <message>Stopping ProtocolHandler ["http-nio-8080"]</message>
+</record>
+<record>
+  <date>2021-04-15T19:11:11.232483100Z</date>
+  <millis>1618513871232</millis>
+  <nanos>483100</nanos>
+  <sequence>76</sequence>
+  <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
+  <level>INFO</level>
+  <class>org.apache.coyote.AbstractProtocol</class>
+  <method>destroy</method>
+  <thread>1</thread>
+  <message>Destroying ProtocolHandler ["http-nio-8080"]</message>
+</record>
+</log>

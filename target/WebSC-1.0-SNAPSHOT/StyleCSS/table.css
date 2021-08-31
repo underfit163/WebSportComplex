@@ -1,0 +1,133 @@
+body {
+
+    font-family: Comic Sans MS, Impact, fantasy, 'Times New Roman', Times, serif;
+    font-weight: 500;
+
+    color: rgb(161, 240, 15);
+    text-align: center;
+    word-spacing: 10px;
+    text-shadow: 4px 4px 3px black;
+    background-color: black;
+    background-image: url("/img/workout.jpeg");
+    background-size: cover;
+}
+
+.nav {
+    background-color: black;
+    background-image: url("/img/1.jpg");
+    background-position: top center;
+    background-size: cover;
+    opacity: 0.8;
+    padding: 40px;
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 5px;
+    letter-spacing: 1px;
+    margin: 0 10px;
+    font-size: 24px;
+    font-family: 'Fredoka One', cursive;
+    transition: .3s ease-in-out;
+}
+
+.s2 {
+    color: white;
+    text-shadow: 1px 1px black;
+    letter-spacing: 1px;
+    border-bottom: 2px solid transparent;
+}
+
+.s2:hover {
+    color: rgb(161, 240, 15);
+    border-bottom: 2px solid rgb(161, 240, 15);
+    box-shadow: 0 1px 0 white, 0 2px 0 #969696;
+}
+
+
+input::placeholder {
+    opacity: 0.6;
+    color: forestgreen;
+    font-family: Comic Sans MS;
+}
+
+input {
+    font-family: Comic Sans MS;
+    color: black;
+}
+
+table {
+    margin: auto;
+    text-shadow: none;
+    font-family: Comic Sans MS;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background-image: url("/img/newsletter-bg.jpg");
+    background-position: top center;
+    background-size: cover;
+    color: rgb(161, 240, 15);
+    border: 7px solid white;
+    border-radius: 20px;
+}
+
+th {
+    font-size: 14px;
+    padding: 10px;
+}
+
+td {
+    background: rgba(161, 240, 15, 0.3);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.shine-button {
+    text-decoration: none;
+    display: inline-block;
+    padding: 2px 15px;
+    margin: 2px 5px;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid rgb(161, 240, 15);
+    border-radius: 8px;
+    font-family: Comic Sans MS;
+    color: black;
+    transition: .2s ease-in-out;
+}
+
+.shine-button:before {
+    content: "";
+    background: linear-gradient(90deg, rgba(255, 255, 255, .1), rgba(255, 255, 255, .5));
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: -8px;
+    left: -75px;
+    transform: skewX(-45deg);
+}
+
+.shine-button:hover {
+    background: rgb(161, 240, 15);;
+    color: #fff;
+}
+
+.shine-button:hover:before {
+    left: 150px;
+    transition: .5s ease-in-out;
+}
+select{
+    font-family: Comic Sans MS;
+    color: black;
+}
+
